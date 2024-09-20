@@ -130,3 +130,29 @@
    gap:20px;
    width: 310px;
 }
+
+#card{
+margin-top:150px;
+margin-left: 85px;
+background-color:hsla(0, 100%, 100%, 0.928);
+}
+.cardsfirst{
+    display: flex;
+    justify-content: space-between;
+    gap:10px;
+    margin-left: 150px;
+
+}
+.card{
+   
+    border-radius:20px;;
+    overflow:shadow;
+    
+    display:flex ;
+    background-color:aqua;
+    width:280px;
+    height: 190px;
+    margin-right:30px;
+    
+
+}
