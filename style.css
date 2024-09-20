@@ -1,0 +1,132 @@
+
+    body{
+        background-color: #FFFEFE;
+    }
+.container{
+    width: 1440px;
+    margin:20px;
+
+}
+.aybolit{
+    margin-top:45px;
+    margin-left:60px;
+    
+    display:flex;
+    gap:120px;
+    justify-content: space-between;
+}
+.texts{
+    justify-content: space-between;
+    display: flex;
+    gap:10px;
+    margin: 20px;
+    text-align: center;
+    p{
+        color:#C3B9B5;
+        font-family:'Futura New';
+        font-size:20px;
+        width:200px;
+    
+    }
+}
+.novgogrod{
+    margin-top:20px;
+    display: flex;
+    gap:20px;
+    margin-left:90px;
+  
+    p{
+        color:#FFC59E;
+        font-family:'Futura New';
+        font-size:20px;
+    }
+}
+.gorodimg{
+    width: 26px;
+    height: 30px;
+    margin-top: 15px;
+}
+
+#intro{
+    margin-top: 140px;
+    margin-left: 75px;
+   
+}
+
+.listin{
+  
+    display: block;
+    justify-content: space-between;
+    
+
+    
+    li{
+         list-style-type: none;
+         color:#C3B9B5;
+         margin-bottom:80px;
+         
+    }
+   
+}
+.first{
+    margin-left:30px;
+    width: 40px;
+    margin-top:80px;
+    margin-bottom: 40px;
+ 
+  
+    .firstimg{
+        width: 40px;
+     
+    }
+}
+.anti{
+    font-family: 'Futura New';
+    color:#080606;
+    position: relative;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+.text{
+    margin-left:250px;
+    width: 500px;
+    margin-top:-540px;
+   
+    p{
+        color:#080606;
+        font-size: 80px;
+        font-family: 'SchoolBook';
+    }
+}
+.textbtn{
+    margin-top:20px;
+    border-radius:30px;
+    border:none;
+    background-color:#FFC59E;
+    width: 270px;
+    height: 67px;
+
+   p{
+    font-family: 'Futura New';
+    font-size:20px;
+    color:#FFFFFF;
+   }
+}
+
+.img{
+    margin-top:-500px;
+    position:static;
+   mask-repeat: no-repeat;
+
+   height: 400px;
+   margin-left:900px;
+}
+.socials{
+    margin-left:250px;
+   margin-top:297px;
+   justify-content: space-between;
+   display: flex;
+   gap:20px;
+   width: 310px;
+}
