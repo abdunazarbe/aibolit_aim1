@@ -202,3 +202,68 @@ background-color:#FFFEFE;
     margin-left: 150px;
     margin-top:24px;
 }
+
+#comforts{
+    margin-top:150px;
+margin-left: 85px;
+background-color:#FFFEFE;
+}
+.ctitle{
+    font-size: 40px;
+    margin-top: 20px;
+    font-family: "SchoolBook";
+    margin-left:500gipx ;
+    color:rgba(8, 6, 6, 1);
+}
+.comfortfirst{
+    display: flex;
+    justify-content: space-between;
+    gap:40px;
+    margin-left:120px;
+}
+.camfordcard{
+    width:300px;
+    height:220px;
+ 
+  
+  
+}
+.cftitle{
+    
+        font-size:30px;
+     
+        font-family: "SchoolBook";
+      
+        color:rgba(8, 6, 6, 1);
+    
+}
+.cf2title{
+    font-family: "Futura New";
+    font-size:20px;
+     width:310px;
+     height: 80px;
+    margin-left:157px;
+    color:rgba(89, 68, 63, 1);
+    margin-bottom:10px;
+
+
+}
+.comimg{
+margin-top: -200px;
+margin-left: 30px;
+}
+
+.comfortsecond{
+    display: flex;
+    justify-content: space-between;
+    gap:40px;
+    margin-left:120px;
+    margin-top: 60px;
+}
+.comfortthird{
+    display: flex;
+    justify-content: space-between;
+    gap:40px;
+    margin-left:120px;
+    margin-top: 60px;
+}
