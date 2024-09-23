@@ -212,7 +212,7 @@ background-color:#FFFEFE;
     font-size: 40px;
     margin-top: 20px;
     font-family: "SchoolBook";
-    margin-left:500gipx ;
+    margin-left:500px ;
     color:rgba(8, 6, 6, 1);
 }
 .comfortfirst{
@@ -266,4 +266,68 @@ margin-left: 30px;
     gap:40px;
     margin-left:120px;
     margin-top: 60px;
+}
+
+.ititle{
+    margin-top: 300px; 
+    margin-left: 200px;
+    font-family: "SchoolBook";
+    font-size: 50px;
+    text-align: center;
+    color:rgba(8, 6, 6, 1) ;
+   }
+   .infoes{
+      margin-left: 570px; 
+      font-family: "Futura New";
+      font-size: 25px ;
+      width: 550px;
+      justify-content: space-between;
+   }
+   .infoe{
+     margin-left:700px; 
+     margin-top: 60px;
+     font-family: "Futura New";
+     font-size: 25px;
+     font-weight: 650 ;
+     color: rgba(255, 197, 158, 1);
+   }
+   .informain{
+    text-align:center;
+    margin-left: 200px;
+   }
+   .doctors{
+       margin-top: 90px;
+       
+       font-family: "SchoolBook";
+       font-size: 50px;
+   }
+   .bring{
+       margin-left: 570px;
+       margin-top: 40px; ''
+   }
+   .number{
+      margin-left: 330px; 
+      font-family: "SchoolBook";
+      font-size: 140px;
+      color: rgba(89, 68, 63, 1);
+   }
+
+   .requirement{
+       width: 600px;
+       margin-left:600px;
+       margin-top: -120px;
+       font-size: 60px;
+       font-family: "Futura New";
+   }
+   .birdyellow{
+       margin-left:930px;
+       margin-top: -105px;
+   }
+#information{
+background-color:rgba(251, 248, 248, 1);
+margin-top: 40px;
+
+}
+.agetext{
+    text-align: center;
 }
