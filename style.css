@@ -358,7 +358,7 @@ color:rgba(255, 255, 255, 1);
     margin-left:95px;
     font-size:80px;
     color:rgba(255, 255, 255, 1);
-    width: 800px;
+    width:820px;
     
     
 }
@@ -378,13 +378,13 @@ color:rgba(255, 255, 255, 1);
 
 .doggyimages{
     display: flex;
-
+    
     margin-left:0px;
-    width: 950px;
+    margin-top: 30px;
 }
 .doggi{
     width:300px;
     height: 220px;
     margin-top: 150px;
-    margin-left: -50px;
+    margin-left: -170px;
 }
