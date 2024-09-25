@@ -515,3 +515,35 @@ padding-left:100px;
         font-size:20px;
     }
 }
+
+.imgfooter{
+    margin-left: 1250px;
+    margin-top: -430px;
+    display: flex;
+   
+}
+
+.socialss{
+    display: flex;
+    margin-left: 1250px;
+    margin-top: 40px;
+    justify-content: space-between;
+    gap:70px;
+}
+.emails{
+    margin-left:1250px;
+    font-family: "Futura New";
+    font-size: 20px;
+    margin-top: 50px;
+    width: 30px;
+    color:rgba(255, 255, 255, 1);
+}
+.madee{
+    margin-top: 180px;
+    margin-left: 1250px;
+    font-family: "Futura New";
+    font-size: 20px;
+    color:rgba(255, 255, 255, 1);
+    font-weight: 400;
+    width: 300px;
+}
