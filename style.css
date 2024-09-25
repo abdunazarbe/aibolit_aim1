@@ -455,3 +455,63 @@ color:rgba(255, 255, 255, 1);
     display: block;
     margin-left:120px;
 }
+
+
+footer{
+    background-color:rgba(89, 68, 63, 1);
+    margin-top:180px;
+    height: 700px;
+}
+.flogo{
+padding-top:80px;
+display: flex;
+gap:30px;
+padding-left:100px;
+}
+.flogotexts{
+    display: block;
+    gap:30px;
+    margin-bottom: 10px;
+
+    p{   margin-bottom:-40px;
+        color:rgba(255, 255, 255, 1);
+        font-weight: 700;
+        font-size:50px;
+    }
+    h6{
+        color:rgba(255, 255, 255, 1);
+        font-weight:400;
+        font-size:20px;
+   
+    }
+}
+
+.footertext{
+    color:rgba(255, 255, 255, 1);
+    font-weight:400;
+    font-size:20px;
+    width: 240px;
+    margin-left: 220px;
+}
+.glavnaya{
+    margin-left:600px;
+    display: block;
+    margin-top:-130px ;
+    p{
+        color:rgba(255, 255, 255, 1);
+        font-weight:400;
+        font-size:20px;
+    }
+
+}
+
+.otzivi{
+    margin-left:920px;
+    display: block;
+    margin-top:-300px ;
+    p{
+        color:rgba(255, 255, 255, 1);
+        font-weight:400;
+        font-size:20px;
+    }
+}
