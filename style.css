@@ -388,3 +388,70 @@ color:rgba(255, 255, 255, 1);
     margin-top: 150px;
     margin-left: -170px;
 }
+
+
+#adress{
+    margin-top:100px;
+  
+}
+
+
+.contactss{
+    display: block;
+    margin-left:120px;
+}
+
+.cttitle
+{
+    font-weight: 400;
+    font-size: 40px;
+    color:rgba(8, 6, 6, 1);
+}
+.na{
+    font-weight: 400;
+    font-size:30px;
+    color:rgba(8, 6, 6, 1);
+}
+.lok{
+    display: flex;
+    gap:25px;
+    margin-left: 10px;
+    p{
+        color:rgba(89, 68, 63, 1);
+        font-weight:400;
+        font-size:20px;
+    }
+}
+
+.phone{
+    display: flex;
+    gap:25px;
+    margin-left:0px;
+    p{
+        color:rgba(89, 68, 63, 1);
+        font-weight:400;
+        font-size:20px;
+    }
+}
+
+.clock{
+    display: flex;
+    gap:25px;
+    margin-left:0px;
+    p{
+        color:rgba(89, 68, 63, 1);
+        font-weight:400;
+        font-size:20px;
+    }
+}
+
+.img{
+   margin-top: -550px;
+    margin-left:660px;
+    width:950px;
+    height: 526px;
+}
+.contactss2{
+    display: block;
+    margin-left:120px;
+}
